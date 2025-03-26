@@ -1,7 +1,5 @@
 # Employee Clustering Analysis Using HR Analytics
 
-![HR Analytics](images/hr-analytics.jpeg)
-
 
 ## Project Overview
 
@@ -10,6 +8,7 @@ This project analyzes employee data to identify patterns and segments within the
 ## Dataset
 
 The analysis uses the [HR Analytics Dataset](https://www.kaggle.com/ludobenistant/hr-analytics) from Kaggle, containing information related to:
+
 - Employee demographics (age, gender, marital status)
 - Job-related factors (department, role, level, income)
 - Satisfaction metrics (job satisfaction, work-life balance)
@@ -28,12 +27,12 @@ The analysis uses the [HR Analytics Dataset](https://www.kaggle.com/ludobenistan
 ### Attrition Risk Factors
 
 - **Highest attrition** occurs among:
-    - Young employees (25-35 years old)
-    - Employees with lower monthly income
-    - Those with fewer years at the company (0-3 years)
-    - Single employees working overtime
-    - Staff in Human Resources, Technical, and Marketing fields
 
+  - Young employees (25-35 years old)
+  - Employees with lower monthly income
+  - Those with fewer years at the company (0-3 years)
+  - Single employees working overtime
+  - Staff in Human Resources, Technical, and Marketing fields
 - **Work-Life Balance Impact**: Poor work-life balance combined with low job satisfaction leads to 47.1% attrition rate
 
 ### Feature Importance
@@ -56,6 +55,7 @@ The analysis uses the [HR Analytics Dataset](https://www.kaggle.com/ludobenistan
 ## Getting Started
 
 ### Prerequisites
+
 - Python 3.8+
 - Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
