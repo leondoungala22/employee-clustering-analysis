@@ -1,6 +1,5 @@
 # Employee Clustering Analysis Using HR Analytics
 
-
 ## Project Overview
 
 This project analyzes employee data to identify patterns and segments within the workforce using advanced analytics techniques. By applying dimensionality reduction through Principal Component Analysis (PCA) and clustering algorithms, the analysis uncovers meaningful groups of employees that share similar characteristics. These insights can inform HR strategies related to retention, engagement, and talent management.
@@ -109,9 +108,3 @@ jupyter notebook main.ipynb
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-[Your Name] - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/username/employee-clustering-analysis](https://github.com/username/employee-clustering-analysis)
